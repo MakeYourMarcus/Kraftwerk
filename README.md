@@ -19,3 +19,8 @@ Your final submission should include a brief report of your findings that highli
 Ensure that your findings are clearly stated in a separate section alongside actionable items and recommendations.
 
 # Bar Coupon Analysis
+1. Those who frequent the bar more often are more likely to accept bar coupons
+2. Those who are between 25 and 30 who visit the bar at least once are more likely to accept bar coupons compared to any other demographic. This could indicate that younger individuals are more likely to accept coupons from bars.
+3. Those who drive with passengers who are not kids are more likely to accept the bar coupon than drivers with kids.
+4. Those who drive who are not widowed have a higher likelihood of accepting bar coupons.
+5. Those who go to cheap restaurants more than 4 times a month and have an income less than 50,000 are more likely to accept bar coupons.
